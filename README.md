@@ -1,2 +1,2 @@
-# hello-worlg
+# hello-world
 for studi
