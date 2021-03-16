@@ -1,2 +1,3 @@
 # hello-world
-for studi
+it is for studi,
+i am from Kazakhstan.
